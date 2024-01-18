@@ -14,11 +14,11 @@ function Skills(){
             <h1>Habilidades</h1>
             <p>Conheça um pouco das minhas principais habilidades e conhecimentos.</p>
             <div>
-                <img src={javascript}/>
-                <img src={html}/>
-                <img src={css}/>
-                <img src={react}/>
-                <img src={figma}/>
+                <img src={javascript} alt='ERROR'/>
+                <img src={html} alt='ERROR'/>
+                <img src={css} alt='ERROR'/>
+                <img src={react} alt='ERROR'/>
+                <img src={figma} alt='ERROR'/>
             </div>
         </div>
     )
